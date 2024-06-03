@@ -3,12 +3,12 @@
 Repositorio de trabajo de titulación de Rodrigo Medellín en modalidad proyecto de apoyo a la divulgación. 
 Matemáticas, Facultad de Ciencias, UNAM. 
 
-```
+#```
 import numpy as np
 from music21 import *
 
 
-```
+#```
 En el archivo Primer_borrador.py se incluye todo el código del proyecto. En cada sistema está el código para generarlo, para trazarlo y para sonificarlo. 
 
 Copo de Koch: líneas 13 - 111
